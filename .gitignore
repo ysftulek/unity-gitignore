@@ -51,6 +51,7 @@ build/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Uu]serSettings/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
